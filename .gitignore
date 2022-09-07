@@ -1,7 +1,0 @@
-bin
-obj
-*.vsidx
-*.vsidx
-.vs/
-*.suo
-*.user
